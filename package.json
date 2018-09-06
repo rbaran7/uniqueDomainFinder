@@ -1,0 +1,11 @@
+{
+  "name": "domiannamechallenge",
+  "version": "1.0.0",
+  "description": "Given a log file containing timestamps, domain names, and IP address count and display the number of unique domian names that appear. Also provide a count and display the top 5 domain names with the most occurrences.",
+  "main": "uniqueDomains.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Baran",
+  "license": "ISC"
+}

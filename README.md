@@ -1,19 +1,15 @@
 <h1>Unique Domain Finder</h1>
-<br/>
 <hr>
 
 <h1>Requirements</h1>
-<br/>
 <hr>
 <p>In order to run the unique domain finder script you will need: </p>
 <ul>
     <li>Node.js: v8.0.0</li>
 </ul>
-<br/>
 <hr>
 
 <h1>Running the Script</h1>
-<br/>
 <hr>
 <ul>
     <li>Clone this repository to the directory of your choosing</li>
@@ -25,4 +21,4 @@
 <br/>
 
 <p>The results should be similar to the one pictured below: </p>
-![alt text](./ResultsImage/uniqueDomainResults.png)
+![alt text](https://github.com/rbaran7/uniqueDomainFinder/ResultsImage/uniqueDomainResults.png)

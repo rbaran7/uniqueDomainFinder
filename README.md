@@ -21,4 +21,4 @@
 <br/>
 
 <p>The results should be similar to the one pictured below: </p>
-![alt text](https://github.com/rbaran7/uniqueDomainFinder/blob/master/ResultsImage/uniqueDomainResults.png)
+<img src='https://github.com/rbaran7/uniqueDomainFinder/blob/master/ResultsImage/uniqueDomainResults.png' alt='results'></img>
